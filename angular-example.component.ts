@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   template: `
     <h1>Khám Phá Angular</h1>
     <p>Chào mừng bạn đến với ví dụ đơn giản về Angular!</p>
-    <p>Bắt đầu hành trình tìm hiểu Angular ngay hôm nay!</p>
+    <p>Bắt đầu hành trình tìm hiểu Angular ngay hôm nay! Hãy cùng nhau khám phá!</p>
   `,
 })
 export class AngularExampleComponent {}
