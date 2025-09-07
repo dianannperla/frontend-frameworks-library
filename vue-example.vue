@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Ví dụ về Vue.js</h1>
+    <h1>Ví dụ về Vue.js - Hướng dẫn cơ bản</h1>
     <p>Đây là một ví dụ đơn giản về cách sử dụng Vue.js.</p>
   </div>
 </template>
